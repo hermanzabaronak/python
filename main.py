@@ -12,3 +12,7 @@ for a in list:
 
 list1 = (1,2,3,4,5)
 print(a, list1)
+
+
+b = range(1,10)
+print(b)
