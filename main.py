@@ -5,3 +5,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+list = [1,2,3,4,5]
+for a in list:
+    print(a)
