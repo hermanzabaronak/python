@@ -7,4 +7,5 @@ if __name__ == '__main__':
 
 list = [1,2,3,4,5]
 for a in list:
-    print(a)
+    if a < 2:
+        print(a)
